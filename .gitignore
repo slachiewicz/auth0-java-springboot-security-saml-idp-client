@@ -1,0 +1,10 @@
+*.swp
+.metadata
+*~
+target/
+.DS_Store
+*.min.js
+*.min.css
+.idea
+.vscode
+auth0-springboot-security-saml-idp-client.iml
